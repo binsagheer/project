@@ -1,0 +1,1582 @@
+
+@media (max-width: 992px) and (min-width: 320px) {
+	.navbar-right {
+	  display: block !important;
+	}
+  
+	.navbar-toggle {
+	  display: none !important;
+	}
+  
+	.menuButton {
+	  display: block !important;
+	}
+  
+	#disply p {
+	  font-size: 18px !important;
+	}
+  }
+  
+  @media (max-width: 767px) and (min-width: 576px) {
+	.hero_section {
+	  height: 700px !important;
+	  margin-top: -200px;
+	}
+  
+	.hero-content-left h2 {
+	  font-size: 28px;
+	  line-height: normal;
+	  margin-bottom: 0;
+	}
+  
+	.hero-content-left p {
+	  font-size: 18px !important;
+	  width: 380px !important;
+	  margin-bottom: 5px;
+	}
+  
+	.hero-content-left {
+	  min-height: 640px !important;
+	  justify-content: center;
+	}
+  
+	.hero-content-left button {
+	  width: 157px;
+	  height: 57px;
+	  padding: 16px 22px 16px 22px;
+	  margin: 0;
+	}
+  
+	.hero-content-left button a {
+	  font-size: 12px !important;
+	}
+  
+
+  
+	.footer-right {
+	  column-gap: 40px !important;
+	}
+  
+	.footer-left {
+	  align-items: center;
+	}
+  
+	.footer-tag p {
+	  text-align: center;
+	  width: 320px;
+	}
+  
+	.social {
+	  justify-content: center !important;
+	  row-gap: 10px;
+	}
+  
+	.text-overlay {
+	  width: 150px !important;
+	  height: 90px !important;
+	  line-height: 2rem !important;
+	}
+  
+	.text-overlay p:nth-child(1) {
+	  font-size: 12px !important;
+	}
+  
+	.text-overlay p:nth-child(2) {
+	  font-size: 38px !important;
+	}
+  
+	.about-starter-btn p {
+	  font-size: 32px;
+	}
+  
+	.startup p {
+	  font-size: 32px;
+	}
+  
+	.mission p {
+	  font-size: 32px;
+	}
+  
+	.left-column-audience h2 {
+	  font-size: 32px;
+	  line-height: 1.9rem;
+	}
+  
+	.left-column-audience h2 {
+	  font-size: 32px;
+	  line-height: 1.9rem;
+	}
+  
+	.come-with-us-body h3 {
+	  font-size: 32px;
+	  line-height: 1.9rem;
+	}
+  
+	.join-us-body h3 {
+	  font-size: 32px;
+	  line-height: 1.9rem;
+	}
+  
+	.client-join-us-body h3 {
+	  font-size: 32px;
+	  line-height: 1.9rem;
+	}
+  
+	.overlay-text-MERCHANDIES h3 {
+	  font-size: 32px !important;
+	  line-height: 2rem;
+	}
+  
+	.consult-us-body h3 {
+	  font-size: 32px !important;
+	  line-height: 3rem;
+	}
+  
+	.overlay-text-MERCHANDIES p {
+	  font-size: 14px !important;
+	  line-height: 18px;
+	}
+	.tilte-button h3 {
+	  width: 100%;
+	}
+	.experince-body h2 {
+	  width: 100%;
+	  font-size: 28px;
+	}
+	#MERCHANDIES {
+	  height: 400px !important;
+	}
+  
+	.hide_it {
+	  display: none !important;
+	}
+  
+	#MERCHANDIES-body {
+	  height: 350px !important;
+	}
+  
+	.opnion-body {
+	  display: grid;
+	  place-items: center !important;
+	  padding: 50px;
+	}
+  
+	.opnion-body h2 {
+	  font-size: 18px !important;
+	}
+  
+	.quote-mark {
+	  width: 80px !important;
+	}
+  
+	.quote-end-mark {
+	  width: 80px !important;
+	}
+  
+	#disply {
+	  padding: 0px !important;
+	}
+  
+	.come-with-us-body {
+	  padding-inline: 1px;
+	}
+	.contact_tag_line h2 {
+	  font-size: 36px !important;
+	}
+	.experince-body h2 {
+	  font-size: 34px;
+	}
+	.footer-left {
+	  margin-top: 20px !important;
+	}
+  }
+  
+  @media (max-width: 593px) and (min-width: 575px) {
+	#MERCHANDIES-body {
+	  height: 350px !important;
+	}
+  }
+  
+  @media (max-width: 575px) and (min-width: 425px) {
+	.hero_section {
+	  height: 400px !important;
+	  margin-top: -200px;
+	}
+  
+	.hero-content-left {
+	  min-height: 380px !important;
+	  justify-content: end !important;
+	}
+  
+	.hero-content-left h2 {
+	  font-size: 18px;
+	  line-height: normal;
+	  margin-bottom: 5px !important;
+	}
+  
+	.hero-content-left p {
+	  font-size: 14px !important;
+	  padding-inline-end: 70px !important;
+	  line-height: 15px;
+	  margin-bottom: 5px;
+	}
+  
+	.hero-content-left button {
+	  margin: 0px;
+	  width: 143px;
+	  height: 38px;
+	  padding: 8px 12px 8px 12px;
+	}
+  
+	nav a > img {
+	  width: 200px !important;
+	}
+  
+	.section-title {
+	  padding: 10px !important;
+	}
+  
+	.section-title h2 {
+	  font-size: 32px;
+	  line-height: normal !important;
+	}
+  
+	#service-section {
+	  min-height: 525px;
+	}
+  
+	.inner-column-left h2 {
+	  font-size: 28px !important;
+	}
+  
+	.inner-column-right button {
+	  padding: 4px 20px 4px 20px;
+	}
+  
+	.footer-right {
+	  column-gap: 40px !important;
+	}
+  
+	.footer-left {
+	  align-items: center;
+	}
+  
+	.footer-tag p {
+	  text-align: center;
+	  width: 320px;
+	}
+  
+	.nav-body {
+	  flex-direction: column !important;
+	  row-gap: 10px;
+	}
+  
+	.text-overlay {
+	  width: 150px !important;
+	  height: 90px !important;
+	  line-height: 2rem !important;
+	}
+  
+	.text-overlay p:nth-child(1) {
+	  font-size: 12px !important;
+	}
+  
+	.text-overlay p:nth-child(2) {
+	  font-size: 38px !important;
+	}
+  
+	.Goal {
+	  display: flex !important;
+	  justify-content: center !important;
+	  column-gap: 50px !important;
+	  align-items: center !important;
+	  flex-direction: row !important ;
+	  flex-direction: column !important;
+	}
+  
+	.vision-title {
+	  margin-left: 0px;
+	}
+  
+	.mission-desc p {
+	  max-width: 100%;
+	}
+  
+	.about-starter-btn p {
+	  font-size: 28px;
+	}
+  
+	.mission p {
+	  font-size: 28px;
+	}
+  
+	.a.startup p {
+	  font-size: 28px;
+	}
+  
+	.left-column-audience h2 {
+	  font-size: 28px;
+	  line-height: 1.9rem;
+	}
+  
+	.join-us-body h3 {
+	  font-size: 28px;
+	  line-height: 1.9rem;
+	}
+  
+	.consult-us-body h3 {
+	  font-size: 28px;
+	  line-height: 1.9rem;
+	}
+  
+	.client-join-us-body h3-body h3 {
+	  font-size: 28px;
+	  line-height: 1.9rem;
+	}
+  
+	.hide_on_small {
+	  display: none !important;
+	}
+  
+	.vision-title {
+	  margin-left: 0px;
+	}
+  
+	.mission-title p {
+	  margin-left: 0px;
+	}
+  
+	#mission-btn {
+	  gap: 8px !important;
+	  border-radius: 7px !important;
+	  margin-block: 30px !important;
+	}
+  
+	#mission-btn a {
+	  font-size: 18px !important;
+	}
+  
+	#about-btn a {
+	  font-size: 18px !important;
+	}
+  
+	#about-btn {
+	  border-radius: 7px !important;
+	}
+  
+	#MERCHANDIES {
+	  height: 300px !important;
+	}
+  
+	.overlay-text-MERCHANDIES h3 {
+	  font-size: 28px !important;
+	  line-height: 3rem;
+	}
+  
+	.overlay-text-MERCHANDIES p {
+	  font-size: 14px !important;
+	  line-height: 17px;
+	}
+  
+	
+  
+	#MERCHANDIES {
+	  height: 350px !important;
+	}
+  
+	.opnion-body h2 {
+	  font-size: 16px !important;
+	}
+  
+	.owl-dots {
+	  margin-top: 20px;
+	  background-color: transparent !important;
+	}
+  
+	.quote-mark {
+	  width: 55px !important;
+	  bottom: 70px !important ;
+	  right: 62px !important;
+	}
+  
+	.quote-end-mark {
+	  width: 55px !important;
+	  top: 36px !important;
+	  left: 41px !important;
+	}
+  
+	#disply {
+	  padding: 0px !important;
+	}
+  
+	.come-with-us-body {
+	  padding-inline: 1px;
+	}
+	.footer-left {
+	  margin-top: 20px !important;
+	}
+	.tilte-button h3 {
+	  width: 100%;
+	}
+	.experince-body h2 {
+	  width: 100%;
+	  font-size: 24px;
+	}
+	.dispaly-cost {
+	  text-align: center;
+	  padding-inline: 5px;
+	}
+  }
+  
+  @media (max-width: 425px) and (min-width: 320px) {
+	.hero_section {
+	  height: 500px !important;
+	  margin-top: -200px;
+	}
+  
+	.hero-content-left {
+	  min-height: 470px !important;
+	  justify-content: end !important;
+	}
+  
+	.hero-content-left h2 {
+	  font-size: 18px;
+	  line-height: normal;
+	  margin-bottom: 5px !important;
+	}
+  
+	.hero-content-left p {
+	  font-size: 12px !important;
+	  padding-inline-end: 70px !important;
+	  line-height: 15px;
+	  margin-bottom: 5px;
+	}
+  
+	.hero-content-left button {
+	  margin: 0px;
+	  width: 143px;
+	  height: 38px;
+	  padding: 8px 12px 8px 12px;
+	}
+  
+	.about-starter-btn p {
+	  font-size: 21px !important;
+	}
+  
+	.startup p {
+	  font-size: 22px;
+	  line-height: 1.8rem;
+	}
+  
+	.join-us-body h3 {
+	  font-size: 22px;
+	  line-height: 1.8rem;
+	}
+  
+	.consult-us-body h3 {
+	  font-size: 22px;
+	  line-height: 1.8rem;
+	}
+  
+	.client-join-us-body h3 {
+	  font-size: 22px;
+	  line-height: 1.8rem;
+	}
+  
+	.come-with-us-body h3 {
+	  font-size: 22px;
+	  line-height: 1.8rem;
+	}
+  
+	.mission p {
+	  font-size: 21px !important;
+	  line-height: 1.8rem !important;
+	  font-weight: 600 !important;
+	}
+  
+	.mission-rank {
+	  flex-direction: column !important;
+	  row-gap: 20px;
+	}
+  
+	.mission-rank span {
+	  margin-bottom: 20px !important;
+	  text-align: center;
+	}
+
+  
+	.left-column-audience h2 {
+	  font-size: 24px;
+	  line-height: 1.9rem;
+	}
+  
+	.inner_2 h2 {
+	  font-size: 22px !important;
+	}
+  
+	.section-title {
+	  padding: 10px !important;
+	}
+  
+	.section-title h2 {
+	  font-size: 22px;
+	  line-height: normal !important;
+	}
+  
+	.inner-column-left h2 {
+	  font-size: 24px !important;
+	}
+  
+	.inner-column-left p {
+	  font-size: 12px !important;
+	}
+  
+	.inner-column-right button {
+	  padding: 4px 20px 4px 20px;
+	}
+  
+	.section-title button {
+	  padding: 5px 11px 5px 11px;
+	}
+  
+	.footer-right {
+	  column-gap: 40px !important;
+	}
+  
+	.footer-left {
+	  align-items: center;
+	}
+  
+	.footer-tag p {
+	  text-align: center;
+	  width: 320px;
+	}
+  
+	.footer-right {
+	  flex-direction: column;
+	}
+  
+	.nav-body {
+	  flex-direction: column !important;
+	  row-gap: 10px;
+	}
+  
+	.text-overlay {
+	  width: 150px !important;
+	  height: 90px !important;
+	  line-height: 2rem !important;
+	}
+  
+	.text-overlay p:nth-child(1) {
+	  font-size: 12px !important;
+	}
+  
+	.text-overlay p:nth-child(2) {
+	  font-size: 38px !important;
+	}
+  
+	.Goal {
+	  display: flex !important;
+	  justify-content: center !important;
+	  column-gap: 50px !important;
+	  align-items: center !important;
+	  flex-direction: row !important ;
+	  flex-direction: column !important;
+	}
+  
+	
+  
+	.social {
+	  margin-right: 0px;
+	}
+  
+	#MERCHANDIES {
+	  height: 200px !important;
+	}
+  
+	.overlay-text-MERCHANDIES h3 {
+	  font-size: 24px !important;
+	  line-height: 3rem;
+	  margin-bottom: 20px !important;
+	}
+  
+	.overlay-text-MERCHANDIES p {
+	  font-size: 14px !important;
+	  line-height: 17px;
+	}
+  
+	#MERCHANDIES {
+	  height: 250px !important;
+	  padding: 40px;
+	}
+  
+	
+  
+	.overlay-text-MERCHANDIES h3 {
+	  font-size: 14px !important;
+	  line-height: 1.5rem;
+	  margin-bottom: 20px !important;
+	}
+  
+	.opnion-body {
+	  display: grid;
+	  place-items: center !important;
+	  padding: 40px;
+	}
+  
+	.opnion-body h2 {
+	  text-align: center;
+	  width: 900;
+	  font-size: 24px;
+	  font-weight: 400;
+	  line-height: normal !;
+	  text-align: center;
+	  max-width: 730px;
+	}
+  
+	.bg-body-tertiary {
+	  padding: 20px;
+	}
+  
+	.quote-mark {
+	  width: 80px;
+	}
+  
+	.quote-end-mark {
+	  width: 80px;
+	}
+  
+	.come-with-us-body {
+	  padding-inline: 1px;
+	}
+	.contact_tag_line h2 {
+	  font-size: 32px !important;
+	  font-size: 48px;
+	  font-weight: 700;
+	  line-height: 60px;
+	  letter-spacing: -0.02em;
+	  text-align: center;
+	}
+	.footer-left {
+	  margin-top: 20px !important;
+	}
+  
+	.dispaly-cost {
+	  text-align: center;
+	  padding-inline: 2px;
+	}
+  }
+  
+  @media (min-width: 992px) and (max-width: 1120px) {
+	.mission-desc p {
+	  max-width: 500px;
+	}
+  }
+  
+  @media (min-width: 575px) and (max-width: 992px) {
+	.mission-desc p {
+	  max-width: 250px;
+	  font-size: 15px !important;
+	  font-weight: normal !important;
+	}
+  
+	.mission-name {
+	  font-size: 18px;
+	  font-weight: 400;
+	}
+  
+	.mission-rank p {
+	  font-size: 45px;
+	}
+  }
+  
+  .owl-nav {
+	display: none !important;
+  }
+  
+  .owl-dot {
+	padding: 2px 5px !important;
+	border-radius: 50px !important;
+	display: inline-flex !important;
+  }
+  
+  @media (min-width: 320px) and (max-width: 575px) {
+	.overlay-text-service p {
+	  font-size: 18px;
+	}
+	.contact_tag_line h2 {
+	  font-size: 26px !important;
+	}
+	.footer-nav-link {
+	  align-self: baseline !important;
+	}
+	.Goal {
+	  display: flex !important;
+	  justify-content: center !important;
+	  column-gap: 50px !important;
+	  align-items: center !important;
+	  flex-direction: row !important ;
+	  flex-direction: column !important;
+	}
+	.section-title {
+	  padding-inline: 0px !important;
+	  margin-left: 10px !important;
+	}
+  }
+  
+  @media (max-width: 380px) {
+	.experince-us-btn {
+	  width: 100% !important;
+	}
+	.social-nav {
+	  padding-inline: 20px !important;
+	}
+  }
+  
+  @media (max-width: 380px) {
+	.provider-us-btn {
+	  width: 100% !important;
+	}
+  }
+  
+  /* ----------  */ /* ----------  */
+  /* ----------  */ /* ----------  */
+  /* ----------  */ /* ----------  */
+  /* ----------  */ /* ----------  */
+  /* ----------  */ /* ----------  */
+  /* ----------  */ /* ----------  */
+  /* ----------  */ /* ----------  */
+  /* ----------  */ /* ----------  */
+  
+
+   @media (max-width: 1440px) {
+	.mission-title {
+		margin-left:0px !important;
+
+	  }
+	  .vision .vision-title{margin-left:0px !important;}
+
+   }
+   @media (min-width: 1650px) {
+	#service-section {
+		height: 600px !important;
+		margin-bottom: 250px !important;
+		
+	  }
+	  
+
+   }
+  @media (min-width: 1440px) and (max-width: 1650px) {
+	.content-body {
+		position: relative;
+		top: 555px;
+	}
+	.inner-container {
+	  min-width: 1280px !important;
+	}
+	#service-section {
+	  height: 600px !important;
+	  margin-bottom: 250px !important;
+	}
+	.quality-crd-body h3 {
+	  font-size: 17px !important;
+	}
+	.quality-crd-body p {
+	  font-size: 13px !important;
+	  margin-bottom: 0px !important;
+	}
+	.quality-crd-body {
+	  height: 250px !important;
+	}
+	.come-with-us-body h3 {
+	  max-width: 700px !important;
+	  margin: auto !important;
+	  display: block !important;
+	}
+	.come-with-us-body p {
+	  font-size: 20px !important;
+	  max-width: 700px !important;
+	  margin: auto !important;
+	  margin-block: 20px !important;
+	}
+	.quote-mark {
+	  position: absolute;
+	  bottom: 54px;
+	  right: 100px;
+	}
+	.quote-end-mark {
+	  left: 52px !important;
+	  position: absolute;
+	  top: 3px !important;
+	}
+	.client-join-us-body p {
+	  max-width: 700px;
+	  margin: auto;
+	}
+  }
+  
+  @media (min-width: 1440px) {
+	.content-body {
+		position: relative !important;
+		top: 555px !important;
+	}
+  }
+
+
+  @media (min-width: 1280px) and (max-width: 1440px) {
+	.content-body {
+		position: relative;
+		top: 555px;
+	}
+	.inner-container {
+	  min-width: 1280px !important;
+	}
+	#service-section {
+	  height: 600px !important;
+	  margin-bottom: 260px !important;
+	}
+	.quality-crd-body h3 {
+	  font-size: 17px !important;
+	}
+	.quality-crd-body p {
+	  font-size: 13px !important;
+	  margin-bottom: 0px !important;
+	}
+	.quality-crd-body {
+	  height: 250px !important;
+	}
+	.come-with-us-body h3 {
+	  max-width: 700px !important;
+	  margin: auto !important;
+	  display: block !important;
+	}
+	.come-with-us-body p {
+	  font-size: 20px !important;
+	  max-width: 700px !important;
+	  margin: auto !important;
+	  margin-block: 20px !important;
+	}
+	.quote-mark {
+	  position: absolute;
+	  bottom: 54px;
+	  right: 100px;
+	}
+	.quote-end-mark {
+	  left: 52px !important;
+	  position: absolute;
+	  top: 3px !important;
+	}
+	.client-join-us-body p {
+	  max-width: 700px;
+	  margin: auto;
+	}
+  }
+  
+  @media (min-width: 1233px) and (max-width: 1280px) {
+	.content-body {
+		position: relative;
+		top: 555px;
+	}
+	.inner-container {
+	  min-width: 1233px !important;
+	}
+	#service {
+	  height: 600px !important;
+	}
+	.overlay-text-service h3 {
+	  font-size: 33px;
+	  font-weight: 700;
+	}
+	.overlay-text-service h3 {
+	  font-size: 36px !important;
+	  line-height: normal !important;
+	}
+	.overlay-text-service p {
+	  width: 100% !important;
+	}
+  
+	.overlay-text-service h5 {
+	  margin-top: 10px !important;
+	}
+	#service-section {
+	  height: 560px !important;
+	  margin-bottom: 233px !important;
+	}
+	.quality-crd-body h3 {
+	  font-size: 17px !important;
+	}
+	.quality-crd-body p {
+	  font-size: 13px !important;
+	  margin-bottom: 0px !important;
+	}
+	.quality-crd-body {
+	  height: 260px !important;
+	}
+	.come-with-us-body h3 {
+	  max-width: 800px !important;
+	  margin: auto !important;
+	  display: block !important;
+	}
+	.come-with-us-body p {
+	  font-size: 20px !important;
+	  max-width: 600px !important;
+	  margin: auto !important;
+	  margin-block: 20px !important;
+	}
+	.quote-mark {
+	  position: absolute !important;
+	  bottom: 54px !important;
+	  right: 100px !important;
+	}
+	.quote-end-mark {
+	  left: 52px !important;
+	  position: absolute;
+	  top: 3px !important;
+	}
+	.client-join-us-body p {
+	  max-width: 700px;
+	  margin: auto;
+	}
+  }
+  
+  @media (min-width: 1080px) and (max-width: 1233px) {
+	.content-body {
+		position: relative;
+		top: 555px;
+	}
+	.inner-container {
+	  min-width: 1080px !important;
+	}
+	.overlay-text-service h3 {
+	  font-size: 33px;
+	  font-weight: 700 !important;
+	}
+	.overlay-text-service h3 {
+	  font-size: 36px !important;
+	  line-height: normal !important;
+	}
+	.overlay-text-service p {
+	  width: 100% !important;
+	}
+  
+	.overlay-text-service h5 {
+	  margin-top: 10px !important;
+	}
+	#service {
+	  height: 600px !important;
+	}
+	#service-section {
+	  height: 530px !important;
+	  margin-bottom: 248px !important;
+	}
+	.quality-crd-body h3 {
+	  font-size: 17px !important;
+	}
+	.quality-crd-body p {
+	  font-size: 13px !important;
+	  margin-bottom: 0px !important;
+	}
+	.quality-crd-body {
+	  height: 270px !important;
+	}
+	.come-with-us-body h3 {
+	  max-width: 900px !important;
+	  margin: auto !important;
+	  display: block !important;
+	}
+	.come-with-us-body p {
+	  font-size: 20px;
+	  max-width: 700px;
+	  margin: auto;
+	  margin-block: 20px;
+	}
+	.quote-mark {
+	  position: absolute !important;
+	  bottom: 54px !important;
+	  right: 100px !important;
+	}
+	.quote-end-mark {
+	  left: 52px !important;
+	  position: absolute;
+	  top: 3px !important;
+	}
+	.client-join-us-body p {
+	  max-width: 700px;
+	  margin: auto;
+	}
+	.overlay-text-MERCHANDIES{margin-top: -20px !important;}
+	.overlay-text-MERCHANDIES h3{font-size: 60px !important;}
+	.MERCHANDIES-content p{font-size: 18px !important;}
+	.MERCHANDIES-content{position: relative !important;top: 200px !important;}
+	 .hero-content-left h2{font-weight: 800 !important;
+		line-height: 46px !important;
+		text-align: left !important;
+		font-size: 44px !important;
+		}
+		
+	}
+  
+  
+  @media (min-width: 992px) and (max-width: 1080px) {
+	.content-body {
+		position: relative;
+		top: 555px;
+	}
+	.inner-container {
+	  min-width: 992px !important;
+	}
+  
+	#service {
+	  height: 500px !important;
+	}
+  
+	.service-content{position: relative ;top: 44px !important;}
+	.overlay-text-service h3 {
+	  font-size: 28px;
+	  font-weight: 400;
+	  line-height: normal !important;
+	}
+	.overlay-text-service h5 {
+	  font-size: 16px !important;margin-top: 0px !important;line-height: normal !important;
+	}
+	.overlay-text-service p {
+	  font-size: 14px !important;    position: relative;
+	  top: -20px;
+	}
+	.quality-crd-body h3 {
+	  font-size: 17px !important;
+	}
+	.quality-crd-body p {
+	  font-size: 13px !important;
+	  margin-bottom: 0px !important;
+	}
+	.come-with-us-body h3 {
+	  max-width: 100% !important;
+	  margin: auto !important;
+	  display: block !important;
+	}
+	.come-with-us-body p {
+	  font-size: 20px !important;
+	  max-width: 700px !important;
+	  margin: auto !important;
+	  margin-block: 20px !important;
+	}
+	.quote-mark {
+	  position: absolute !important;
+	  bottom: 54px !important;
+	  right: 100px !important;
+	}
+	.quote-end-mark {
+	  left: 52px !important;
+	  position: absolute;
+	  top: 3px !important;
+	}
+	.client-join-us-body p {
+	  max-width: 700px;
+	  margin: auto;
+	}
+	.overlay-text-MERCHANDIES{margin-top: -20px !important;}
+	.overlay-text-MERCHANDIES h3{font-size: 60px !important;}
+	.MERCHANDIES-content p{font-size: 18px !important;}
+	.hero-content-left h2{font-weight: 800 !important;
+		line-height: 46px !important;
+		text-align: left !important;
+		font-size: 44px !important;
+	}
+	.MERCHANDIES-content{position: relative !important;top:80px !important;}
+		
+  }
+  
+  @media (min-width: 768px) and (max-width: 992px) {
+	.content-body {
+		position: relative !important;
+		top: 560px !important;
+	}
+	.inner-container {
+	  min-width: 768px !important;
+	}
+  
+	#service {
+	  height: 470px !important;
+	}
+  
+	.overlay-text-service h3 {
+	  font-size: 26px !important;
+	  font-weight: 600 !important;
+	  line-height: 36px !important;
+	  text-align: left !important;
+	  margin-top: 10px !important;
+	}
+	.overlay-text-service {
+	  line-height: 17px !important;
+	}
+	.overlay-text-service h5 {
+	  font-size: 14px !important;
+	  margin-top: 0px !important;
+	  line-height: 17px !important;
+	}
+	.overlay-text-service p {
+	  font-size: 14px !important;
+	  margin-top: -24px !important;
+	}
+	#service-section {
+	  min-height: 600px !important;
+	  margin-bottom: 10px !important;
+	}
+  
+	.inner-column-left h2 {
+	  font-size: 26px !important;
+	}
+	.contacter {
+	  height: 220px !important;
+	}
+	.quote-mark {
+	  position: absolute !important;
+	  bottom: 54px !important;
+	  right: 100px !important;
+	}
+	.quote-end-mark {
+	  left: 52px !important;
+	  position: absolute;
+	  top: 3px !important;
+	}
+	.client-join-us-body p {
+	  max-width: 700px;
+	  margin: auto;
+	}
+	.overlay-text-MERCHANDIES{margin-top: -20px !important;}
+	.overlay-text-MERCHANDIES h3{font-size: 46px !important;
+        line-height: normal !important;}
+	.MERCHANDIES-content p{font-size: 16px !important;}
+	.hero-content-left h2{font-weight: 800 !important;
+		line-height: 46px !important;
+		text-align: left !important;
+		font-size: 38px !important;
+		}
+		.left-column-audience h2{font-size: 44px !important;
+		line-height: 55px !important;}
+		.MERCHANDIES-content{position: relative !important;top: 130px !important;left: 22px !important;}
+
+  }
+  
+  @media (min-width: 640px) and (max-width: 767px) {
+	.MERCHANDIES-content p{font-size: 12px !important;line-height: normal !important;}
+	.overlay-text-MERCHANDIES h3{max-width: 400px !important;font-size: 20px !important;}
+	.MERCHANDIES-content{position: relative !important;top:0px !important;left: 22px !important;}
+	.content-body {
+		position: relative !important;
+		top: 450px !important;
+	}
+	.inner-container {
+	  min-width: 640px !important;
+	}
+  
+	#service {
+	  height: 450px !important;
+	}
+  
+	.overlay-text-service h3 {
+	  font-size: 24px !important;
+	  font-weight: 600 !important;
+	  line-height: 36px !important;
+	  text-align: left !important;
+	  margin-top: 20px !important;
+	}
+	.overlay-text-service {
+	  line-height: 17px !important;
+	}
+	.overlay-text-service h5 {
+	  font-size: 14px !important;
+	  margin-top: 0px !important;
+	  line-height: 17px !important;
+	}
+	.overlay-text-service p {
+	  font-size: 14px !important;
+	  margin-top: -24px !important;
+	  line-height: normal !important;
+	}
+	.quote-mark {
+	  position: absolute;
+	  bottom: 23px;
+	  right: 42px;
+	}
+	.overlay-text-MERCHANDIES{margin-top: -20px !important;}
+	.overlay-text-MERCHANDIES h3{font-size: 33px !important;
+        line-height: normal !important;}
+	.MERCHANDIES-content p{font-size: 14px !important;margin-top: 5px !important;}
+	.hero-content-left h2{font-weight: 800 !important;
+		line-height: 46px !important;
+		text-align: left !important;
+		font-size: 38px !important;
+		max-width: 360px !important;position: relative;bottom: 40px !important;
+		}
+		.hero-content-left p { max-width: 360px !important;font-size: 14px !important;position: relative;bottom: 24px !important;}
+			.hero-content-left button{height: 48px;width: 120px !important;
+				padding: px 22px px 22px;
+				margin: 0;
+				padding: 7px 22px 7px 22px;position: relative;bottom: 22px;}
+				MERCHANDIES-content{position: relative;top:150px !important ;}
+  }
+  @media (min-width: 576px) and (max-width: 640px) {
+	/* .mission-rank{width:100% !important;} */
+
+	.inner-container {
+	  min-width: 576px !important;
+	}
+  
+	#service {
+	  height: 450px !important;
+	}
+  
+	.overlay-text-service h3 {
+	  font-size: 22px !important;
+	  font-weight: 600 !important;
+	  line-height: 30px !important;
+	  text-align: left !important;
+	  margin-top: 40px !important;
+	}
+	.overlay-text-service {
+	  line-height: 17px !important;
+	}
+	.overlay-text-service h5 {
+	  font-size: 14px !important;
+	  margin-top: 0px !important;
+	  line-height: 17px !important;
+	}
+	.overlay-text-service p {
+	  font-size: 12px !important;
+	  margin-top: -24px !important;
+	  line-height: 17px;
+	}
+	#provider-id h2 {
+	  font-size: 34px !important;
+	  line-height: normal !important;
+	}
+	.overlay-text-MERCHANDIES{margin-top: -20px !important;}
+	.overlay-text-MERCHANDIES h3{font-size: 23px !important;
+        line-height: normal !important;}
+	.MERCHANDIES-content p{font-size: 13px !important;margin-top: 5px !important;}
+	.hero-content-left h2{font-weight: 800 !important;
+		line-height: 46px !important;
+		text-align: left !important;
+		font-size: 38px !important;
+		max-width: 360px !important;position: relative;bottom: 40px !important;
+		}
+		.hero-content-left p { max-width: 360px !important;font-size: 14px !important;position: relative;bottom: 24px !important;}
+			.hero-content-left button{height: 48px;width: 120px !important;;
+				padding: px 22px px 22px;
+				margin: 0;
+				padding: 7px 22px 7px 22px;position: relative;bottom: 22px;}
+				.content-body {
+					position: relative !important;
+					top: 450px !important;
+				}
+	
+	
+    }
+  
+  
+  @media (min-width: 425px) and (max-width: 575px) {
+	/* .mission-rank{width:100% !important;} */
+	.inner-container {
+	  min-width: 425px !important;
+	}
+  
+	#service {
+	  height: 370px !important;
+	}
+  
+	.overlay-text-service h3 {
+	  font-size: 20px !important;
+	  font-weight: 600 !important;
+	  line-height: 22px !important;
+	  text-align: left !important;
+	}
+	.overlay-text-service {
+	  line-height: 17px !important;
+	}
+	.overlay-text-service h5 {
+	  font-size: 14px !important;
+	  margin-top: 0px !important;
+	  line-height: 17px !important;
+	}
+	.overlay-text-service p {
+	  font-size: 12px !important;
+	  margin-top: -24px !important;
+	  line-height: 17px;
+	}
+	#provider-id h2 {
+	  font-size: 32px !important;
+	  line-height: normal !important;
+	}
+	.come-with-us-body h3 {
+	  font-size: 32px !important;
+	  line-height: 2.2rem !important;
+	  font-weight: 500 !important;
+	}
+	.come-with-us-body p {
+	  font-size: 18px !important;
+	  margin-top: 36px !important;
+	}
+	.overlay-text-MERCHANDIES{margin-top: -20px !important;}
+	.overlay-text-MERCHANDIES h3{font-size: 23px !important;
+        line-height: normal !important;}
+	.MERCHANDIES-content p{font-size: 11px !important;margin-top: 5px !important;line-height: normal !important;width:400px !important}
+	.hero_section {
+        height: 537px !important;}
+	.hero-content-left h2{font-weight: 800 !important;
+		line-height: 46px !important;
+		text-align: left !important;
+		font-size: 38px !important;
+		max-width: 360px !important;position: relative;bottom: 40px !important;
+		}
+		.hero-content-left p { max-width: 360px !important;font-size: 14px !important;position: relative;bottom: 24px !important;}
+			.hero-content-left button{height: 48px;width: 140px !important;;
+				padding: px 22px px 22px;
+				margin: 0;
+				padding: 7px 22px 7px 22px;position: relative;bottom: 22px;}
+				.content-body {
+					position: relative !important;
+					top: 320px !important;
+				}
+  
+	/* .overlay-text-service{width: 50% !important;} */
+  }
+  @media (min-width: 320px) and (max-width: 425px) {
+	/* .mission-rank{width:100% !important;} */
+	.MERCHANDIES-content p{font-size: 12px !important;line-height: normal !important;}
+	.overlay-text-MERCHANDIES h3{max-width: 400px !important;font-size: 13px !important;}
+	.MERCHANDIES-content{position: relative !important;top:0px !important;left: 22px !important;}
+	.inner-container {
+	  min-width: 100% !important;
+	}
+  
+	#service {
+	  height: 340px !important;
+	}
+  
+	.overlay-text-service h3 {
+	  font-size: 18px !important;
+	  font-weight: 600 !important;
+	  line-height: normal !important;
+	  text-align: left !important;
+	  margin-top: 66px !important;
+	}
+	.overlay-text-service {
+	  line-height: 17px !important;
+	}
+	.overlay-text-service h5 {
+	  font-size: 14px !important;
+	  margin-top: 0px !important;
+	  line-height: 17px !important;
+	}
+	.overlay-text-service p {
+	  font-size: 12px !important;
+	  margin-top: -18px !important;
+	  line-height: 17px;
+	}
+	.overlay-text-service p {
+	  padding-right: 0px !important;
+	}
+	#provider-id h2 {
+	  font-size: 36px !important;
+	}
+	.experince-body h2 {
+	  font-size: 26px !important;
+	}
+	.experince-us-btn {
+	  width: 100% !important;
+	}
+	.provider-us-btn {
+	  width: 100% !important;
+	}
+	.button-text {
+	  flex-direction: column !important;
+	}
+	.inner-column-left {
+	  text-align: center !important;
+	}
+	.inner-column-left p {
+	  text-align: center !important;
+	}
+	#disply h2 {
+	  font-size: 28px;
+	  line-height: normal !important;
+	  font-weight: 500;
+	}
+	#inner-id p {
+	  text-align: left !important;
+	  font-size: 14px !important;
+	  margin-top: -20px !important;
+	}
+	.service-dsc h2 {font-size: 24px !important;}
+	#provider-id h2 {
+	  font-size: 28px !important;
+	  line-height: normal !important;
+	}
+	.provider-us-btn {
+	  font-size: 12px !important;
+	  line-height: 20px !important;
+	  height: 46px !important;
+	}
+	.experince-us-btn {
+	  font-size: 12px !important;
+	  line-height: 20px !important;
+	  height: 46px !important;
+	}
+	.experince-body h2 {
+	  font-size: 24px !important;
+	  font-weight: 500 !important;
+	  line-height: normal !important;
+	}
+	.provider-us-body h3 {
+	  font-size: 28px !important;
+	  font-weight: 500 !important;
+	  line-height: normal !important;
+	}
+	.success-heading h3 {
+	  font-size: 28px !important;
+	  font-weight: 500 !important;
+	  line-height: normal !important;
+	}
+	.quote-mark {
+	  width: 56px !important;
+	  bottom: 8px !important;
+	  right: 9px !important;
+	}
+	.quote-end-mark {
+	  width: 55px !important;
+	  top: 9% !important;
+	  left: 9px !important;
+	}
+	.vision-text {
+	  font-size: 18px !important;
+	  font-weight: 300 !important;
+	}
+	.hide_on_small {
+	  display: none !important;
+	}
+	#provider-id h2 {
+	  font-size: 28px !important;
+	  line-height: normal !important;
+	  font-weight: 500 !important;
+	}
+	.footer-tag p {
+	  width: 100% !important;
+	}
+	.opnion-body {
+	  /* text-align: left; */
+	  padding: 20px 10px;
+	  background-color: #dbd2be4d;
+	  border: none;
+	  border-radius: 12px;
+	  min-height: 300px;
+	  position: relative;
+	  text-align: center;
+	}
+	.opnion-body h2 {
+	  font-size: 14px !important;
+	  padding-top: 45px !important;
+	}
+	.come-with-us-body h3 {
+	  font-family: 28px !important;
+	  line-height: 2.2rem !important;
+	  font-weight: 500 !important;
+	}
+	.come-with-us-body p {
+	  font-size: 18px !important;
+	  margin-top: 36px !important;
+	}
+	.come-with-us-body {
+	  padding-inline: 0px !important;
+	}
+	.opnion-body p {
+	  margin-bottom: 2rem !important;
+	}
+	.vision-title {
+	  margin-left: 0px !important;
+	}
+	.overlay-text-MERCHANDIES{margin-top: -20px !important;}
+	.overlay-text-MERCHANDIES h3{font-size: 18px !important;
+        line-height: normal !important;}
+	.MERCHANDIES-content p{font-size: 11px !important;margin-top: -10px !important;width: 280px !important;line-height: normal !important;}
+	
+	.footer-tag p{width:100% !important;}
+	.copy p{font-size: 14px !important;}
+	.hero_section {
+        height: 537px !important;}
+	.hero-content-left h2{font-weight: 800 !important;
+		line-height: 46px !important;
+		text-align: left !important;
+		font-size: 32px !important;
+		max-width: 296px !important;
+        position: relative;
+        bottom: -8px !important;
+        right: le;
+        
+		}
+		.hero-content-left p { max-width: 360px !important;font-size: 12px !important;position: relative;bottom: -9px !important;}
+			.hero-content-left button{height: 38px;width: 130px !important;;
+				
+				margin: 0;
+				padding: 7px 22px 7px 22px;position: relative;bottom: -11px;font-size: 12px !important;}
+				.content-body {
+					position: relative !important;
+					top: 300px !important;
+					font-size: 11px !important;
+				}
+				#menuButton img{width: 30px !important;}
+  }
+  
+	
+  @media (min-width:320px) and (max-width:1080px) {
+	.social{position: relative !important;right: 0px !important;}
+	.about-starter-btn img{width: 90px !important;}
+
+	
+  }
+  @media (min-width:320px) and (max-width:360px) {
+	.hero-content-left h2{font-weight: 800 !important;
+		line-height: 33px !important;
+		text-align: left !important;
+		font-size: 16px !important;
+		max-width: 296px !important;
+        position: relative;
+        bottom: -8px !important;
+      
+		}
+		.hero-content-left p { max-width: 320px !important;font-size: 12px !important;position: relative;bottom: -9px !important; }
+			.hero-content-left button{height: 38px;width: 130px !important;;
+				
+				margin: 0;
+				padding: 7px 22px 7px 22px;position: relative;bottom: -11px;font-size: 12px !important;}
+				.content-body {
+					position: relative !important;
+					top: 333px !important;
+					font-size: 11px !important;
+				}
+
+	
+  }
+  @media (min-width:320px) and (max-width:336px) {
+	.content-body {
+		position: relative !important;
+		top: 315px !important;
+		font-size: 11px !important;
+	}
+
+  }
+  @media (min-width:769px) and (max-width:856px) {
+	.content-body {
+		position: relative !important;
+		top: 500px !important;
+		font-size: 11px !important;
+	}
+
+  }
+  @media (max-width:575px) {
+	.mission-rank{width:100% !important;} 
+	
+  }
+
+ 
